@@ -8,6 +8,19 @@ We will use the standard scientific method, using sequential analysis to optimiz
 
 We will go into each experiment with zero assumptions. The best science are results that surprise the researchers.
 
+## Build instructions
+
+The papers in this repo are built using markdown-paper. Install:
+
+- Latex, we used Texlive on Debian
+
+```shell
+
+
+
+```
+
+
 ## Reference BGS Guide
 
 As we establish more data, we will build a reference BGS guide, which will be licensed under CC-BY-SA 4.0, so any BGS guide can update their materials by acknowledging the research we as the community have done.
