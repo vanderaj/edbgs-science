@@ -1,5 +1,5 @@
 
-Hyptothesis
+Hypothesis
 
 All things equal, ground and space win conditions, bounties, and objectives should all be equal.
 
