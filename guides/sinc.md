@@ -1,4 +1,4 @@
-** DISCLAIMER: THIS GUIDE WILL BECOME MOSTLY OBSOLETE IN 3.3**
+** DISCLAIMER: Draft. Being updated for Odyssey Update 11 with science experiments.**
 
 ![SINC logo][https://i.imgur.com/Xd92foj.png]
 
