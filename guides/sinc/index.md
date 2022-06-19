@@ -308,24 +308,17 @@ When a faction reaches 75% or more in a system, it will get a pending expansion 
 - Min/Max length: 3/7 days, will typically run for 5 days from my experience.
 - Cooldown: 2 days
 
-
-
 ## Investment**: If there is no suitable system within range of a regular expansion, it will fail after its duration and the faction will start an investment state. It lasts for 5 days and does not prevent conflicts (it's the only case in which a faction can have 2 active states at once). Once the investment ends it will be on recovery for a day, and then an expansion will go pending. Once it triggers, this expansion will have an enhanced range, although the max range is not clear yet. The expansion won't necessarly trigger from the system the investment was active in.
 
-
 ## Retreat**: If a faction expanded to a system but their influence there stays at 2.5% or lower for too long, a retreat may trigger. If the influence of the faction is below 2.5% when the retreat ends, the faction will be forced out of the system. A faction cannot be forced to retreat from their home system, or if there are 3 or less factions in the system, except if there are for instance 5 factions and 3 of them get a pending retreat at the same time. We"ve successfully reduced the number of factions in a system to 2 this way. Retreat will end boom state early if there's one active.
-
 
 - Countdown: 1 day
 - Min/Max duration: Unknown/5 days
 - Cooldown: Unknown
 
-
-
 You can check where your faction expanded to and the recent states the factions have gone through by checking the news board of the station. You can also check the pending, current and recovering states for every faction in the system if you dock at a station and check the ** Faction Status Summary**, added in 2.2:
 
-
-[img]http://i.imgur.com/LsLAekp.png[/img]
+![Station News](station-news.png)
 
 
 [img]http://i.imgur.com/Id5kJnj.png[/img]
