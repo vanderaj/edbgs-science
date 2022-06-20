@@ -12,7 +12,14 @@ We will go into each experiment with zero assumptions. The best science are resu
 
 The papers in this repo are built using markdown-paper. Install:
 
-- Latex, we used Texlive on Debian
+#### Debian
+
+```shell
+sudo apt-get install pandoc pandoc-citeproc texlive ghostscript texlive-bibtex-extra texlive-science fonts-lato texlive-fonts-extra texlive-publishers
+pip install pandoc-fignos
+```
+
+#### Fedora and CentOS
 
 ```shell
 sudo apt-get install pandoc pandoc-citeproc texlive ghostscript texlive-bibtex-extra texlive-science fonts-lato texlive-fonts-extra texlive-publishers
