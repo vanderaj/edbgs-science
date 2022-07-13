@@ -1,5 +1,5 @@
 ---
-title:  'Are ground combat zones equivalent to space combat zones'
+title:  'Effect of exobiology sales on system influence'
 journal: 'Humberto Academy of Science'
 author:
 - name: Andrew (Cmdr Purrfect) van der Stock
@@ -16,22 +16,21 @@ affiliation:
   name: SINC BGS
 keyword:
   - bgs
-  - combat zones
-  - space
-  - ground
+  - exploration
+  - exobiology
 lineno: false
 abbreviation:
   - BGS, background simulation
   - SINC, Sirius Interim National Council aka Sirius Inc
 abstract: |
-  It is thought by many that Space combat zones (CZs) are more impactful than ground CZs. We are going to test 3 low ground CZs versus 3 space low CZs. 
+  Exobiology was introduced in Elite Dangerous: Odyssey as a new type of exploration game loop. Cmdrs scan planets to find bio signals, land, and scan various exobiology for varying credits. Once docked at a station with Vista Genomics, these scans can be traded in for credits. This experiment is designed to identify if exobiology sales are treated the same as exploration data sales. Experimental results demonstrate that there is no system influence effect from exobiology transactions.
 bibliography: references.bib
 acknowledgements: |
   We'd like to thank the ED BGS Discord Server for looking over these results and providing fearless and frank advice.
 contribution: |
-  A.V. conceived the experiment(s),  A.V. and Cmdr Infir conducted the experiment(s), TBA analysed the results.  All authors reviewed the manuscript.
+  ajv conceived the experiment(s), ajv and Cmdr Infir conducted the experiment(s), ajv analysed the results. All authors reviewed the manuscript.
 template: elsevier
-documentclass_options: 
+documentclass_options:
   - final
 ...
 
@@ -49,7 +48,7 @@ References are cited as @mittner2014brain or [@mittner2014brain].
 
 # Methods
 
-To investigate this in a way that can be reproducible, the experiment is designed to run both sides of the war, with the following caveats:
+Standard control factors have been :
 
 - The two factions at war must be present, not controlling factions[^1]
 - The two factions' influence should not exceed 25%[^2]
@@ -64,9 +63,12 @@ To investigate this in a way that can be reproducible, the experiment is designe
 Three low CZs
 
 Data: 
-- Objectives completed (bases, captured, etc)
-- how long it took over the three runs
-- Results
+- Three days of control
+- Three days of exobiology dumps (no more than 1 mCr per day)
+- Three days of exploration dumps (no more than 1 mCr per day)
+- A massive dump of exploration data
+- A massive dump of exobiology data
+
 
 <!-- >
 ! [This is gonna be the caption.] (pics/dummy.pdf) {#fig:dummy width=100%}
@@ -101,6 +103,10 @@ Table in LaTeX format because of fancy formatting
 
 # Results
 
+There is no BGS effect from exobiology, only exploration data.
+
 # Discussion
+
+ We would encourage Frontier Developments to make these two distinct transactions the same for BGS purposes, as it rules out an otherwise new game loop.
 
 # References
