@@ -1,3 +1,12 @@
+# BREAKING NEWS! SINC BGS GUIDE IS RELEASED!
+
+Get your copy here:
+
+- [SINC The Complete BGS Guide 2024 Word](guides/sinc/The%20Complete%20BGS%20Guide%202024.docx)
+- [SINC The Complete BGS Guide 2024 PDF](guides/sinc/The%20Complete%20BGS%20Guide%202024.pdf)
+
+Please send any errors or corrections to the SINC team at [SINC Discord](https://discord.gg/RBuzEUPggC)
+
 # Elite BGS Science Repo
 
 This is a repo containing a list of basic research into Elite Dangerous: Odyssey to validate assumptions on the background simulation, questions, hypotheses, predictions, variables, controlled variables, risk assessment, materials (if any), method and design, results with test data. This repo is a way to document experiments and their results that validate or disprove the data we see.
@@ -30,7 +39,10 @@ pip install pandoc-fignos pandoc-citeproc
 
 ### Validating BGS Guides
 
-- [SINC](guides/sinc/)
+Get your copy here:
+
+- [SINC The Complete BGS Guide 2024 Word](guides/sinc/The%20Complete%20BGS%20Guide%202024.docx)
+- [SINC The Complete BGS Guide 2024 PDF](guides/sinc/The%20Complete%20BGS%20Guide%202024.pdf)
 
 The following guides are annotated, but otherwise have the original text as found on the Internet:
 
