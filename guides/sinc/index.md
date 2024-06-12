@@ -1,6 +1,6 @@
 # The Complete Elite Dangerous Background Simulation Guide 2024
 
-2024 Edition v1.1.1
+2024 Edition v1.1.2
 
 Andrew van der Stock
 
@@ -11,273 +11,275 @@ Andrew van der Stock
 
 ## Table of Contents
 
-[Copyright 6](#_Toc169018779)
+[Copyright 6](#_Toc169065689)
 
-[Thank you! 6](#_Toc169018780)
+[Thank you! 6](#_Toc169065690)
 
-[License 6](#_Toc169018781)
+[License 6](#_Toc169065691)
 
-[INTRODUCTION 7](#_Toc169018782)
+[INTRODUCTION 7](#_Toc169065692)
 
-[Who is this guide for? 7](#_Toc169018783)
+[Who is this guide for? 7](#_Toc169065693)
 
-[BGS is not a second job 7](#_Toc169018784)
+[BGS is not a second job 7](#_Toc169065694)
 
-[Science First - Data and Experiment Driven 7](#_Toc169018785)
+[Science First - Data and Experiment Driven 7](#_Toc169065695)
 
-[Opinionated 8](#_Toc169018786)
+[Opinionated 8](#_Toc169065696)
 
-[The intersection between BGS and PowerPlay 8](#_Toc169018787)
+[The intersection between BGS and PowerPlay 8](#_Toc169065697)
 
-[Essential Internet Resources 8](#_Toc169018788)
+[Essential Internet Resources 8](#_Toc169065698)
 
-[Essential Tools 9](#_Toc169018789)
+[Essential Tools 9](#_Toc169065699)
 
-[Some terms used throughout the document 9](#_Toc169018790)
+[Some terms used throughout the document 9](#_Toc169065700)
 
-[WHAT IS BGS? 10](#_Toc169018791)
+[WHAT IS BGS? 10](#_Toc169065701)
 
-[Systems 11](#_Toc169018792)
+[Systems 11](#_Toc169065702)
 
-[Factions 11](#_Toc169018793)
+[Factions 11](#_Toc169065703)
 
-[Reputation 11](#_Toc169018794)
+[Reputation 11](#_Toc169065704)
 
-[Influence 12](#_Toc169018795)
+[Influence 12](#_Toc169065705)
 
-[Assets – Stations and more 12](#_Toc169018796)
+[Assets – Stations and more 12](#_Toc169065706)
 
-[System states 13](#_Toc169018797)
+[System states 13](#_Toc169065707)
 
-[Sliders 14](#_Toc169018798)
+[Sliders 14](#_Toc169065708)
 
-[Economy 14](#_Toc169018799)
+[Economy 14](#_Toc169065709)
 
-[Security 14](#_Toc169018800)
+[Security 14](#_Toc169065710)
 
-[Daily tick 15](#_Toc169018801)
+[Daily tick 15](#_Toc169065711)
 
-[Weekly server maintenance tick 16](#_Toc169018802)
+[Weekly server maintenance tick 16](#_Toc169065712)
 
-[JOINING A SQUADRON AND GETTING INTO BGS 17](#_Toc169018803)
+[JOINING A SQUADRON AND GETTING INTO BGS 17](#_Toc169065713)
 
-[Step 1 – Join a Squadron 17](#_Toc169018804)
+[Step 1 – Join a Squadron 17](#_Toc169065714)
 
-[Step 2 – Secure Your Inara Profile 17](#_Toc169018805)
+[Step 2 – Secure Your Inara Profile 17](#_Toc169065715)
 
-[Step 3 – Get Tooled Up 18](#_Toc169018806)
+[Step 3 – Get Tooled Up 18](#_Toc169065716)
 
-[Step 4 – Get into BGS 18](#_Toc169018807)
+[Step 4 – Get into BGS 18](#_Toc169065717)
 
-[Open, Private Group, or Solo? 19](#_Toc169018808)
+[Open, Private Group, or Solo? 19](#_Toc169065718)
 
-[Forming a squadron 19](#_Toc169018809)
+[Forming a squadron 19](#_Toc169065719)
 
-[Build a BGS ship (or two) 21](#_Toc169018810)
+[PowerPlay Control 1.0 Table 19](#_Toc169065720)
 
-[Mission and Generalist BGS Ship 21](#_Toc169018811)
+[Build a BGS ship (or two) 22](#_Toc169065721)
 
-[Trade Ship 21](#_Toc169018812)
+[Mission and Generalist BGS Ship 22](#_Toc169065722)
 
-[Exploration Ship 21](#_Toc169018813)
+[Trade Ship 22](#_Toc169065723)
 
-[Combat Ship 22](#_Toc169018814)
+[Exploration Ship 22](#_Toc169065724)
 
-[Build your own ship 22](#_Toc169018815)
+[Combat Ship 23](#_Toc169065725)
 
-[MANIPULATING THE BACKGROUND SIMULATION 23](#_Toc169018816)
+[Build your own ship 23](#_Toc169065726)
 
-[Work smarter, not harder. 23](#_Toc169018817)
+[MANIPULATING THE BACKGROUND SIMULATION 24](#_Toc169065727)
 
-[Maintenance 23](#_Toc169018818)
+[Work smarter, not harder. 24](#_Toc169065728)
 
-[Daily scan 23](#_Toc169018819)
+[Maintenance 24](#_Toc169065729)
 
-[Maintaining influence 26](#_Toc169018820)
+[Daily scan 24](#_Toc169065730)
 
-[Maintaining reputation 26](#_Toc169018821)
+[Maintaining influence 27](#_Toc169065731)
 
-[Missions 26](#_Toc169018822)
+[Maintaining reputation 27](#_Toc169065732)
 
-[In-ship ‘Horizons’ 26](#_Toc169018823)
+[Missions 27](#_Toc169065733)
 
-[On-foot ‘Odyssey’ 26](#_Toc169018824)
+[In-ship ‘Horizons’ 27](#_Toc169065734)
 
-[Combat 26](#_Toc169018825)
+[On-foot ‘Odyssey’ 27](#_Toc169065735)
 
-[Trade 27](#_Toc169018826)
+[Combat 27](#_Toc169065736)
 
-[Fleet carriers have no influence effect on BGS 28](#_Toc169018827)
+[Trade 28](#_Toc169065737)
 
-[Profitable Trade Loops 29](#_Toc169018828)
+[Fleet carriers have no influence effect on BGS 29](#_Toc169065738)
 
-[Unprofitable Trade Loops 29](#_Toc169018829)
+[Profitable Trade Loops 30](#_Toc169065739)
 
-[Mining 29](#_Toc169018830)
+[Unprofitable Trade Loops 30](#_Toc169065740)
 
-[Smuggling 30](#_Toc169018831)
+[Mining 30](#_Toc169065741)
 
-[Cutter tax 30](#_Toc169018832)
+[Smuggling 31](#_Toc169065742)
 
-[Exploration 31](#_Toc169018833)
+[Cutter tax 31](#_Toc169065743)
 
-[Exobiology: Restoring Reputation, or get out of hostile, quick 31](#_Toc169018834)
+[Exploration 32](#_Toc169065744)
 
-[Reducing influence 32](#_Toc169018835)
+[Exobiology: Restoring Reputation, or get out of hostile, quick 32](#_Toc169065745)
 
-[Failing missions 32](#_Toc169018836)
+[Reducing influence 33](#_Toc169065746)
 
-[Clean Killing 32](#_Toc169018837)
+[Failing missions 33](#_Toc169065747)
 
-[Negative actions 32](#_Toc169018838)
+[Clean Killing 33](#_Toc169065748)
 
-[Inducing negative states 32](#_Toc169018839)
+[Negative actions 33](#_Toc169065749)
 
-[CONFLICTS 33](#_Toc169018840)
+[Inducing negative states 33](#_Toc169065750)
 
-[Government Ethos 33](#_Toc169018841)
+[CONFLICTS 34](#_Toc169065751)
 
-[Conflict table 33](#_Toc169018842)
+[Government Ethos 34](#_Toc169065752)
 
-[Wars 33](#_Toc169018843)
+[Conflict table 34](#_Toc169065753)
 
-[Coups 35](#_Toc169018844)
+[Wars 34](#_Toc169065754)
 
-[Elections 35](#_Toc169018845)
+[Coups 36](#_Toc169065755)
 
-[EXPANSIONS 35](#_Toc169018846)
+[Elections 36](#_Toc169065756)
 
-[Expansion diplomacy 36](#_Toc169018847)
+[EXPANSIONS 36](#_Toc169065757)
 
-[Detecting inactive PMFs 36](#_Toc169018848)
+[Expansion diplomacy 37](#_Toc169065758)
 
-[Where will I expand? The expansion cube 36](#_Toc169018849)
+[Detecting inactive PMFs 37](#_Toc169065759)
 
-[Which system will be the expansion system? 37](#_Toc169018850)
+[Where will I expand? The expansion cube 37](#_Toc169065760)
 
-[Rules of Expansion 37](#_Toc169018851)
+[Which system will be the expansion system? 38](#_Toc169065761)
 
-[Rules of Invasion 38](#_Toc169018852)
+[Rules of Expansion 38](#_Toc169065762)
 
-[Preparing a system for expansion 38](#_Toc169018853)
+[Rules of Invasion 39](#_Toc169065763)
 
-[Taking over a system, slowly 38](#_Toc169018854)
+[Preparing a system for expansion 39](#_Toc169065764)
 
-[Taking over a system, quickly 39](#_Toc169018855)
+[Taking over a system, slowly 39](#_Toc169065765)
 
-[Backfilling systems 39](#_Toc169018856)
+[Taking over a system, quickly 40](#_Toc169065766)
 
-[Expansions: Get rich quick 39](#_Toc169018857)
+[Backfilling systems 40](#_Toc169065767)
 
-[RETREAT 39](#_Toc169018858)
+[Expansions: Get rich quick 40](#_Toc169065768)
 
-[The Important Day 39](#_Toc169018859)
+[RETREAT 40](#_Toc169065769)
 
-[Retreating a faction 39](#_Toc169018860)
+[The Important Day 40](#_Toc169065770)
 
-[CRIME AND PUNISHMENT 40](#_Toc169018861)
+[Retreating a faction 40](#_Toc169065771)
 
-[Fines 40](#_Toc169018862)
+[CRIME AND PUNISHMENT 41](#_Toc169065772)
 
-[Bounties 40](#_Toc169018863)
+[Fines 41](#_Toc169065773)
 
-[Local bounties 40](#_Toc169018864)
+[Bounties 41](#_Toc169065774)
 
-[Global bounties 41](#_Toc169018865)
+[Local bounties 41](#_Toc169065775)
 
-[Notoriety 41](#_Toc169018866)
+[Global bounties 42](#_Toc169065776)
 
-[Naughty list 41](#_Toc169018867)
+[Notoriety 42](#_Toc169065777)
 
-[Interstellar factors 42](#_Toc169018868)
+[Naughty list 42](#_Toc169065778)
 
-[Space Jail 42](#_Toc169018869)
+[Interstellar factors 43](#_Toc169065779)
 
-[REFERENCE 43](#_Toc169018870)
+[Space Jail 43](#_Toc169065780)
 
-[The Bucket Model 43](#_Toc169018871)
+[REFERENCE 44](#_Toc169065781)
 
-[Diminishing returns 45](#_Toc169018872)
+[The Bucket Model 44](#_Toc169065782)
 
-[Diplomacy 46](#_Toc169018873)
+[Diminishing returns 46](#_Toc169065783)
 
-[Being a good guest 47](#_Toc169018874)
+[Diplomacy 47](#_Toc169065784)
 
-[Maintaining other faction’s system 47](#_Toc169018875)
+[Being a good guest 48](#_Toc169065785)
 
-[Influence distribution 47](#_Toc169018876)
+[Maintaining other faction’s system 48](#_Toc169065786)
 
-[Interpreting station news 48](#_Toc169018877)
+[Influence distribution 48](#_Toc169065787)
 
-[Maintaining anarchy systems 48](#_Toc169018878)
+[Interpreting station news 49](#_Toc169065788)
 
-[Actions 49](#_Toc169018879)
+[Maintaining anarchy systems 49](#_Toc169065789)
 
-[State Duration Table 50](#_Toc169018880)
+[Actions 50](#_Toc169065790)
 
-[Slider 50](#_Toc169018881)
+[State Duration Table 51](#_Toc169065791)
 
-[Conflict 50](#_Toc169018882)
+[Slider 51](#_Toc169065792)
 
-[Event 50](#_Toc169018883)
+[Conflict 51](#_Toc169065793)
 
-[Conflict table 51](#_Toc169018884)
+[Event 51](#_Toc169065794)
 
-[Active States 51](#_Toc169018885)
+[Conflict table 52](#_Toc169065795)
 
-[None 51](#_Toc169018886)
+[Active States 52](#_Toc169065796)
 
-[Blight 51](#_Toc169018887)
+[None 52](#_Toc169065797)
 
-[Boom 52](#_Toc169018888)
+[Blight 52](#_Toc169065798)
 
-[Bust 52](#_Toc169018889)
+[Boom 53](#_Toc169065799)
 
-[Civil liberty 52](#_Toc169018890)
+[Bust 53](#_Toc169065800)
 
-[Civil unrest 53](#_Toc169018891)
+[Civil liberty 53](#_Toc169065801)
 
-[Civil war 53](#_Toc169018892)
+[Civil unrest 54](#_Toc169065802)
 
-[Drought 53](#_Toc169018893)
+[Civil war 54](#_Toc169065803)
 
-[Elections 53](#_Toc169018894)
+[Drought 54](#_Toc169065804)
 
-[Expansion 54](#_Toc169018895)
+[Elections 54](#_Toc169065805)
 
-[Famine 54](#_Toc169018896)
+[Expansion 55](#_Toc169065806)
 
-[Infrastructure failure 54](#_Toc169018897)
+[Famine 55](#_Toc169065807)
 
-[Investment 55](#_Toc169018898)
+[Infrastructure failure 55](#_Toc169065808)
 
-[Lockdown 55](#_Toc169018899)
+[Investment 56](#_Toc169065809)
 
-[Natural disaster 55](#_Toc169018900)
+[Lockdown 56](#_Toc169065810)
 
-[Outbreak 56](#_Toc169018901)
+[Natural disaster 56](#_Toc169065811)
 
-[Pirate attack 56](#_Toc169018902)
+[Outbreak 57](#_Toc169065812)
 
-[Public holiday 56](#_Toc169018903)
+[Pirate attack 57](#_Toc169065813)
 
-[Retreat 56](#_Toc169018904)
+[Public holiday 57](#_Toc169065814)
 
-[Terrorist attack 57](#_Toc169018905)
+[Retreat 57](#_Toc169065815)
 
-[War 57](#_Toc169018906)
+[Terrorist attack 58](#_Toc169065816)
 
-[AX States 57](#_Toc169018907)
+[War 58](#_Toc169065817)
 
-[Defunct States 58](#_Toc169018908)
+[AX States 58](#_Toc169065818)
 
-[Super Powers and Powers Discords 58](#_Toc169018909)
+[Defunct States 59](#_Toc169065819)
 
-[Bibliography 58](#_Toc169018910)
+[Super Powers and Powers Discords 59](#_Toc169065820)
 
-[Older information 58](#_Toc169018911)
+[Bibliography 59](#_Toc169065821)
 
-[Older BGS guides 59](#_Toc169018912)
+[Older information 59](#_Toc169065822)
+
+[Older BGS guides 60](#_Toc169065823)
 
 # Copyright
 
@@ -539,7 +541,7 @@ Either:
 
 - **For newbies - join the New Pilots Initiative.** The NEWP folks will show you the ropes and have an active BGS. NEWP is a great choice for new Commanders learning the game and BGS. <https://discord.com/invite/newp>
 - **For intermediate Commanders - find a squadron** **at the Squadron Recruitment Center**. So many factions are desperate for BGS operatives – you can rise rapidly in many squadrons. <https://discord.gg/squadronrecruitmentcenter>
-- **For advanced Commanders - join a Power and help them with their BGS efforts**. Powers are the most active BGS player groups, typically with more than 500 systems and heavy diplomacy requirements. Most Powers have a BGS faction of their own or have allies you can join. See the table in the references section on page 58 to find your nearest Power Discord.
+- **For advanced Commanders - join a Power and help them with their BGS efforts**. Powers are the most active BGS player groups, typically with more than 500 systems and heavy diplomacy requirements. Most Powers have a BGS faction of their own or have allies you can join. See the table in the references section on page 59 to find your nearest Power Discord.
 - **Form a new squadron (might not be possible).** See Forming a squadron on page 19 for all the details of how to create your own squadron.
 
 ## Step 2 – Secure Your Inara Profile
@@ -587,33 +589,31 @@ If you want to create a new squadron, go to the right-hand panel in the game, Sq
 
 **Please take the time to choose your government type, superpower, and power alignment carefully.**
 
-If you remain entirely independent, you miss out on a great deal of prebuilt active community.
+If you are going to be creating a squadron in 2024, you will want to align yourself with a Power, because almost certainly, you will be placed within a Power’s sphere of influence. If you remain entirely independent, you miss out on a great deal of prebuilt active community.
 
-If you align with a Power and your government type is not beneficial to that power, you’ll be a drag on them. Please contact and work with your preferred Power to select your superpower, government type, and starting location to benefit both parties.
+### PowerPlay Control 1.0 Table
 
-You can be independent but align with an independent power, which is a good compromise between not aligning with the Empire, Federation, or Alliance but still gaining a community.
+Most Powers strongly prefer to have favorable government types, so if you can, choose one of the “strong” government types if you plan on pledging to a specific Power and your planned systems are within their sphere of influence. If your preferred government type is neither weak nor strong, it’s neutral, and although you won’t be helping your preferred Power, you won’t necessarily harm them as long as they remain with a majority favorable government type within the controlling sphere of influence. If your preferred government type is “weak” or unfavorable, you will actively harm your Power – pledged or not, and things will not go well for you.
 
-| Power | Weak (or bad) | Strong (or preferred) | Superpower |
+| Power | Weak (or unfavorable) | Strong (or preferred) | Neutral |
 | --- | --- | --- | --- |
-| Aisling Duval | Feudal<br><br>Prison Colony<br><br>Theocracy<br><br>Communist<br><br>Cooperative<br><br>Patronage | Corporate<br><br>Communist<br><br>Cooperative<br><br>Confederacy | Empire |
-| Archon Delaine |     |     | Independent |
-| Arissa Lavigny-Duval | Dictatorship | Feudal<br><br>Patronage | Empire |
-| Denton Patreus |     |     | Empire |
-| Edmond Mahon | Communist<br><br>Cooperative<br><br>Feudal<br><br>Patronage | Corporate | Alliance |
-| Felicia Winters |     |     | Federation |
-| Li Yong-Rui |     |     | Independent |
-| Pranav Antal | Feudal<br><br>Prison Colony<br><br>Theocracy<br><br>Democracy | Communist Cooperative Confederacy | Independent |
-| Yuri Grom |     |     | Independent |
-| Zachary Hudson |     |     | Federation |
-| Zemina Torval |     |     | Empire |
+| Aisling Duval | Feudal<br><br>Prison Colony<br><br>Theocracy | Communist<br><br>Cooperative<br><br>Confederacy | Corporate<br><br>Democracy<br><br>Patronage<br><br>Dictatorship |
+| Archon Delaine | Feudal<br><br>Prison Colony<br><br>Theocracy | Confederacy<br><br>Cooperative<br><br>Communist | Corporate<br><br>Democracy<br><br>Patronage<br><br>Dictatorship |
+| Arissa Lavigny-Duval | Dictatorship | Feudal<br><br>Patronage | Corporate<br><br>Cooperative<br><br>Confederacy<br><br>Democracy |
+| Denton Patreus | Dictatorship | Feudal<br><br>Patronage | Corporate<br><br>Democracy<br><br>Communism<br><br>Anarchy |
+| Edmond Mahon | Communist<br><br>Cooperative<br><br>Feudal<br><br>Patronage | Corporate | Democracy<br><br>Confederacy<br><br>Dictatorship |
+| Felicia Winters | Communist<br><br>Cooperative<br><br>Feudal<br><br>Patronage | Corporate | Democracy<br><br>Theocracy<br><br>Confederacy<br><br>Dictatorship |
+| Li Yong-Rui | Communist<br><br>Cooperative<br><br>Feudal<br><br>Patronage | Corporate | Democracy<br><br>Anarchy<br><br>Dictatorship |
+| Pranav Antal | Democracy | Feudal<br><br>Dictatorship<br><br>Communist<br><br>Cooperative | Corporate<br><br>Confederacy<br><br>Patronage |
+| Yuri Grom | Democracy | Feudal<br><br>Dictatorship<br><br>Communist<br><br>Cooperative | Corporate<br><br>Confederacy<br><br>Anarchy<br><br>Patronage |
+| Zachary Hudson | Dictatorship | Feudal<br><br>Patronage | Democracy<br><br>Corporate<br><br>Confederacy<br><br>Cooperative<br><br>Communism<br><br>Theocracy |
+| Zemina Torval | Democracy | Feudal<br><br>Dictatorship<br><br>Communist<br><br>Cooperative | Corporate<br><br>Cooperative<br><br>Confederacy<br><br>Feudal<br><br>Anarchy<br><br>Patronage |
 
-PowerPlay 1.0 Fortification / Control / Defense Ethos Considerations
+Table of PowerPlay 1.0 Control Fortification Bonus Considerations
 
-Most Powers prefer to have favorable government types, so if you can, choose one of the “strong” government types if you plan on pledging to a specific Power and your planned systems are within their sphere of influence. If your preferred government type is neither weak nor strong, it’s neutral, and although you won’t be helping your preferred Power, you won’t harm them either.
+Powers must have mostly favorable government types within a sphere of influence from their control systems to earn a fortification bonus. They will flip exploited systems to a different controlling faction that best suits their needs, so if you decide to pledge your faction to a Power and you’re an unfavorable government type, you will end up being a drag on their sphere of influence around their control systems. This will either mean you never end up controlling many systems, or you will be at war with your pledged power.
 
-Some powers, such as Aisling Duval, have strengths while exploiting a system, and then those government types go weak when controlling them, so it’s best to choose a government type that only appears in the strong column if you plan on taking over control systems.
-
-If in doubt, work with your preferred Power before selecting your in-game faction, particularly the start location, superpower alignment, government type, and expansion plans. This will get you off to a great start with your preferred Power. A list of Power Discords is in the Reference section.
+**If in doubt, work with your preferred Power before selecting your in-game faction, particularly the start location, superpower alignment, government type, and expansion plans. This will get you off to a great start with your preferred Power. A list of Power Discords is in the Reference section.**
 
 ## Build a BGS ship (or two)
 
@@ -740,7 +740,7 @@ Missions, including passenger missions, can provide either economic or security 
 
 Some missions, particularly illegal missions, will hurt a target faction, so choose them carefully – either you wish to hurt that faction, or you don’t mind if you do.
 
-<table><tbody><tr><th><h2><a id="_Toc169018823"></a>In-ship ‘Horizons’</h2></th><th><p>Try to stack high influence (5 influence is the max) missions of a similar type so that you don’t need to change ships.</p></th></tr><tr><td><h2><a id="_Toc169018824"></a>On-foot ‘Odyssey’</h2></td><td><p>Generally, lower influence per mission (max of 4) than Horizons and takes longer to complete (but more fun). Always go to the mission providers first to see if they have a four influence mission available. Three influence missions are available from the terminals.</p></td></tr></tbody></table>
+<table><tbody><tr><th><h2><a id="_Toc169065734"></a>In-ship ‘Horizons’</h2></th><th><p>Try to stack high influence (5 influence is the max) missions of a similar type so that you don’t need to change ships.</p></th></tr><tr><td><h2><a id="_Toc169065735"></a>On-foot ‘Odyssey’</h2></td><td><p>Generally, lower influence per mission (max of 4) than Horizons and takes longer to complete (but more fun). Always go to the mission providers first to see if they have a four influence mission available. Three influence missions are available from the terminals.</p></td></tr></tbody></table>
 
 ## Combat
 
@@ -1187,7 +1187,7 @@ Description automatically generated](data:image/png;base64,iVBORw0KGgoAAAANSUhEU
 
 Figure 2: FDev documenting some of the internal buckets
 
-Different types of actions fill or empty these internal buckets. Some of this can be surfaced using the table as seen on page 43. For example, bringing medicines empties the outbreak bucket, eventually clearing that state.
+Different types of actions fill or empty these internal buckets. Some of this can be surfaced using the table as seen on page 44. For example, bringing medicines empties the outbreak bucket, eventually clearing that state.
 
 Various factions have tested a four bucket model, consisting of trade, exploration, combat, and missions, which simplifies but reasonably and successfully represents the game’s behavior as how these levers, triggers, and so on are applied to each tick.
 
