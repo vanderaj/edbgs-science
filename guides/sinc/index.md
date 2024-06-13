@@ -800,7 +800,7 @@ If in doubt, use a station to fill your trade needs.
 
 ### Profitable Trade Loops
 
-The game now only accepts trade loops from stations for profitable trade and to fix bad states that are resolved with particular goods, so you will need to use Inara > Data > Trade Routes to find a good route involving the system you’re trying to boost. There’s in system trade loops have more effect, especially if you control both stations, than system-to-system trade loops.
+The game now only accepts trade loops from stations for profitable trade and to fix bad states that are resolved with particular goods, so you will need to use Inara > Data > Trade Routes to find a good route involving the system you’re trying to boost. There’s in system trade loops which have more effect, especially if you control both stations, than system-to-system trade loops.
 
 If you don’t want to use an external tool, the game itself indicates high trade routes between systems using color coded lines in the galaxy map to indicate what’s selling well in either direction of nearby systems. If you learn the colors, you can figure out what will trade well between two systems.
 
