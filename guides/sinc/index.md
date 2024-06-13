@@ -1,6 +1,6 @@
 # The Complete Elite Dangerous Background Simulation Guide 2024
 
-2024 Edition v1.1.2
+2024 Edition v1.1.3
 
 Andrew van der Stock
 
@@ -11,275 +11,275 @@ Andrew van der Stock
 
 ## Table of Contents
 
-[Copyright 6](#_Toc169065689)
+[Copyright 6](#_Toc169140954)
 
-[Thank you! 6](#_Toc169065690)
+[Thank you! 6](#_Toc169140955)
 
-[License 6](#_Toc169065691)
+[License 6](#_Toc169140956)
 
-[INTRODUCTION 7](#_Toc169065692)
+[INTRODUCTION 7](#_Toc169140957)
 
-[Who is this guide for? 7](#_Toc169065693)
+[Who is this guide for? 7](#_Toc169140958)
 
-[BGS is not a second job 7](#_Toc169065694)
+[BGS is not a second job 7](#_Toc169140959)
 
-[Science First - Data and Experiment Driven 7](#_Toc169065695)
+[Science First - Data and Experiment Driven 7](#_Toc169140960)
 
-[Opinionated 8](#_Toc169065696)
+[Opinionated 8](#_Toc169140961)
 
-[The intersection between BGS and PowerPlay 8](#_Toc169065697)
+[The intersection between BGS and PowerPlay 8](#_Toc169140962)
 
-[Essential Internet Resources 8](#_Toc169065698)
+[Essential Internet Resources 8](#_Toc169140963)
 
-[Essential Tools 9](#_Toc169065699)
+[Essential Tools 9](#_Toc169140964)
 
-[Some terms used throughout the document 9](#_Toc169065700)
+[Some terms used throughout the document 9](#_Toc169140965)
 
-[WHAT IS BGS? 10](#_Toc169065701)
+[WHAT IS BGS? 10](#_Toc169140966)
 
-[Systems 11](#_Toc169065702)
+[Systems 11](#_Toc169140967)
 
-[Factions 11](#_Toc169065703)
+[Factions 11](#_Toc169140968)
 
-[Reputation 11](#_Toc169065704)
+[Reputation 11](#_Toc169140969)
 
-[Influence 12](#_Toc169065705)
+[Influence 12](#_Toc169140970)
 
-[Assets – Stations and more 12](#_Toc169065706)
+[Assets – Stations and more 12](#_Toc169140971)
 
-[System states 13](#_Toc169065707)
+[System states 13](#_Toc169140972)
 
-[Sliders 14](#_Toc169065708)
+[Sliders 14](#_Toc169140973)
 
-[Economy 14](#_Toc169065709)
+[Economy 14](#_Toc169140974)
 
-[Security 14](#_Toc169065710)
+[Security 14](#_Toc169140975)
 
-[Daily tick 15](#_Toc169065711)
+[Daily tick 15](#_Toc169140976)
 
-[Weekly server maintenance tick 16](#_Toc169065712)
+[Weekly server maintenance tick 16](#_Toc169140977)
 
-[JOINING A SQUADRON AND GETTING INTO BGS 17](#_Toc169065713)
+[JOINING A SQUADRON AND GETTING INTO BGS 17](#_Toc169140978)
 
-[Step 1 – Join a Squadron 17](#_Toc169065714)
+[Step 1 – Join a Squadron 17](#_Toc169140979)
 
-[Step 2 – Secure Your Inara Profile 17](#_Toc169065715)
+[Step 2 – Secure Your Inara Profile 17](#_Toc169140980)
 
-[Step 3 – Get Tooled Up 18](#_Toc169065716)
+[Step 3 – Get Tooled Up 18](#_Toc169140981)
 
-[Step 4 – Get into BGS 18](#_Toc169065717)
+[Step 4 – Get into BGS 18](#_Toc169140982)
 
-[Open, Private Group, or Solo? 19](#_Toc169065718)
+[Open, Private Group, or Solo? 19](#_Toc169140983)
 
-[Forming a squadron 19](#_Toc169065719)
+[Forming a squadron 19](#_Toc169140984)
 
-[PowerPlay Control 1.0 Table 19](#_Toc169065720)
+[PowerPlay Control 1.0 Table 19](#_Toc169140985)
 
-[Build a BGS ship (or two) 22](#_Toc169065721)
+[Build a BGS ship (or two) 22](#_Toc169140986)
 
-[Mission and Generalist BGS Ship 22](#_Toc169065722)
+[Mission and Generalist BGS Ship 22](#_Toc169140987)
 
-[Trade Ship 22](#_Toc169065723)
+[Trade Ship 22](#_Toc169140988)
 
-[Exploration Ship 22](#_Toc169065724)
+[Exploration Ship 22](#_Toc169140989)
 
-[Combat Ship 23](#_Toc169065725)
+[Combat Ship 23](#_Toc169140990)
 
-[Build your own ship 23](#_Toc169065726)
+[Build your own ship 23](#_Toc169140991)
 
-[MANIPULATING THE BACKGROUND SIMULATION 24](#_Toc169065727)
+[MANIPULATING THE BACKGROUND SIMULATION 24](#_Toc169140992)
 
-[Work smarter, not harder. 24](#_Toc169065728)
+[Work smarter, not harder. 24](#_Toc169140993)
 
-[Maintenance 24](#_Toc169065729)
+[Maintenance 24](#_Toc169140994)
 
-[Daily scan 24](#_Toc169065730)
+[Daily scan 24](#_Toc169140995)
 
-[Maintaining influence 27](#_Toc169065731)
+[Maintaining influence 27](#_Toc169140996)
 
-[Maintaining reputation 27](#_Toc169065732)
+[Maintaining reputation 27](#_Toc169140997)
 
-[Missions 27](#_Toc169065733)
+[Missions 27](#_Toc169140998)
 
-[In-ship ‘Horizons’ 27](#_Toc169065734)
+[In-ship ‘Horizons’ 27](#_Toc169140999)
 
-[On-foot ‘Odyssey’ 27](#_Toc169065735)
+[On-foot ‘Odyssey’ 27](#_Toc169141000)
 
-[Combat 27](#_Toc169065736)
+[Combat 27](#_Toc169141001)
 
-[Trade 28](#_Toc169065737)
+[Trade 28](#_Toc169141002)
 
-[Fleet carriers have no influence effect on BGS 29](#_Toc169065738)
+[Fleet carriers have no influence effect on BGS 29](#_Toc169141003)
 
-[Profitable Trade Loops 30](#_Toc169065739)
+[Profitable Trade Loops 30](#_Toc169141004)
 
-[Unprofitable Trade Loops 30](#_Toc169065740)
+[Unprofitable Trade Loops 30](#_Toc169141005)
 
-[Mining 30](#_Toc169065741)
+[Mining 30](#_Toc169141006)
 
-[Smuggling 31](#_Toc169065742)
+[Smuggling 31](#_Toc169141007)
 
-[Cutter tax 31](#_Toc169065743)
+[Cutter tax 31](#_Toc169141008)
 
-[Exploration 32](#_Toc169065744)
+[Exploration 32](#_Toc169141009)
 
-[Exobiology: Restoring Reputation, or get out of hostile, quick 32](#_Toc169065745)
+[Exobiology: Restoring Reputation, or get out of hostile, quick 32](#_Toc169141010)
 
-[Reducing influence 33](#_Toc169065746)
+[Reducing influence 33](#_Toc169141011)
 
-[Failing missions 33](#_Toc169065747)
+[Failing missions 33](#_Toc169141012)
 
-[Clean Killing 33](#_Toc169065748)
+[Clean Killing 33](#_Toc169141013)
 
-[Negative actions 33](#_Toc169065749)
+[Negative actions 33](#_Toc169141014)
 
-[Inducing negative states 33](#_Toc169065750)
+[Inducing negative states 33](#_Toc169141015)
 
-[CONFLICTS 34](#_Toc169065751)
+[CONFLICTS 34](#_Toc169141016)
 
-[Government Ethos 34](#_Toc169065752)
+[Government Ethos 34](#_Toc169141017)
 
-[Conflict table 34](#_Toc169065753)
+[Conflict table 34](#_Toc169141018)
 
-[Wars 34](#_Toc169065754)
+[Wars 34](#_Toc169141019)
 
-[Coups 36](#_Toc169065755)
+[Coups 36](#_Toc169141020)
 
-[Elections 36](#_Toc169065756)
+[Elections 36](#_Toc169141021)
 
-[EXPANSIONS 36](#_Toc169065757)
+[EXPANSIONS 36](#_Toc169141022)
 
-[Expansion diplomacy 37](#_Toc169065758)
+[Expansion diplomacy 37](#_Toc169141023)
 
-[Detecting inactive PMFs 37](#_Toc169065759)
+[Detecting inactive PMFs 37](#_Toc169141024)
 
-[Where will I expand? The expansion cube 37](#_Toc169065760)
+[Where will I expand? The expansion cube 37](#_Toc169141025)
 
-[Which system will be the expansion system? 38](#_Toc169065761)
+[Which system will be the expansion system? 38](#_Toc169141026)
 
-[Rules of Expansion 38](#_Toc169065762)
+[Rules of Expansion 38](#_Toc169141027)
 
-[Rules of Invasion 39](#_Toc169065763)
+[Rules of Invasion 39](#_Toc169141028)
 
-[Preparing a system for expansion 39](#_Toc169065764)
+[Preparing a system for expansion 39](#_Toc169141029)
 
-[Taking over a system, slowly 39](#_Toc169065765)
+[Taking over a system, slowly 39](#_Toc169141030)
 
-[Taking over a system, quickly 40](#_Toc169065766)
+[Taking over a system, quickly 40](#_Toc169141031)
 
-[Backfilling systems 40](#_Toc169065767)
+[Backfilling systems 40](#_Toc169141032)
 
-[Expansions: Get rich quick 40](#_Toc169065768)
+[Expansions: Get rich quick 40](#_Toc169141033)
 
-[RETREAT 40](#_Toc169065769)
+[RETREAT 40](#_Toc169141034)
 
-[The Important Day 40](#_Toc169065770)
+[The Important Day 40](#_Toc169141035)
 
-[Retreating a faction 40](#_Toc169065771)
+[Retreating a faction 40](#_Toc169141036)
 
-[CRIME AND PUNISHMENT 41](#_Toc169065772)
+[CRIME AND PUNISHMENT 41](#_Toc169141037)
 
-[Fines 41](#_Toc169065773)
+[Fines 41](#_Toc169141038)
 
-[Bounties 41](#_Toc169065774)
+[Bounties 41](#_Toc169141039)
 
-[Local bounties 41](#_Toc169065775)
+[Local bounties 41](#_Toc169141040)
 
-[Global bounties 42](#_Toc169065776)
+[Global bounties 42](#_Toc169141041)
 
-[Notoriety 42](#_Toc169065777)
+[Notoriety 42](#_Toc169141042)
 
-[Naughty list 42](#_Toc169065778)
+[Naughty list 42](#_Toc169141043)
 
-[Interstellar factors 43](#_Toc169065779)
+[Interstellar factors 43](#_Toc169141044)
 
-[Space Jail 43](#_Toc169065780)
+[Space Jail 43](#_Toc169141045)
 
-[REFERENCE 44](#_Toc169065781)
+[REFERENCE 44](#_Toc169141046)
 
-[The Bucket Model 44](#_Toc169065782)
+[The Bucket Model 44](#_Toc169141047)
 
-[Diminishing returns 46](#_Toc169065783)
+[Diminishing returns 46](#_Toc169141048)
 
-[Diplomacy 47](#_Toc169065784)
+[Diplomacy 47](#_Toc169141049)
 
-[Being a good guest 48](#_Toc169065785)
+[Being a good guest 48](#_Toc169141050)
 
-[Maintaining other faction’s system 48](#_Toc169065786)
+[Maintaining other faction’s system 48](#_Toc169141051)
 
-[Influence distribution 48](#_Toc169065787)
+[Influence distribution 48](#_Toc169141052)
 
-[Interpreting station news 49](#_Toc169065788)
+[Interpreting station news 49](#_Toc169141053)
 
-[Maintaining anarchy systems 49](#_Toc169065789)
+[Maintaining anarchy systems 49](#_Toc169141054)
 
-[Actions 50](#_Toc169065790)
+[Actions 50](#_Toc169141055)
 
-[State Duration Table 51](#_Toc169065791)
+[State Duration Table 51](#_Toc169141056)
 
-[Slider 51](#_Toc169065792)
+[Slider 51](#_Toc169141057)
 
-[Conflict 51](#_Toc169065793)
+[Conflict 51](#_Toc169141058)
 
-[Event 51](#_Toc169065794)
+[Event 51](#_Toc169141059)
 
-[Conflict table 52](#_Toc169065795)
+[Conflict table 52](#_Toc169141060)
 
-[Active States 52](#_Toc169065796)
+[Active States 52](#_Toc169141061)
 
-[None 52](#_Toc169065797)
+[None 52](#_Toc169141062)
 
-[Blight 52](#_Toc169065798)
+[Blight 52](#_Toc169141063)
 
-[Boom 53](#_Toc169065799)
+[Boom 53](#_Toc169141064)
 
-[Bust 53](#_Toc169065800)
+[Bust 53](#_Toc169141065)
 
-[Civil liberty 53](#_Toc169065801)
+[Civil liberty 53](#_Toc169141066)
 
-[Civil unrest 54](#_Toc169065802)
+[Civil unrest 54](#_Toc169141067)
 
-[Civil war 54](#_Toc169065803)
+[Civil war 54](#_Toc169141068)
 
-[Drought 54](#_Toc169065804)
+[Drought 54](#_Toc169141069)
 
-[Elections 54](#_Toc169065805)
+[Elections 54](#_Toc169141070)
 
-[Expansion 55](#_Toc169065806)
+[Expansion 55](#_Toc169141071)
 
-[Famine 55](#_Toc169065807)
+[Famine 55](#_Toc169141072)
 
-[Infrastructure failure 55](#_Toc169065808)
+[Infrastructure failure 55](#_Toc169141073)
 
-[Investment 56](#_Toc169065809)
+[Investment 56](#_Toc169141074)
 
-[Lockdown 56](#_Toc169065810)
+[Lockdown 56](#_Toc169141075)
 
-[Natural disaster 56](#_Toc169065811)
+[Natural disaster 56](#_Toc169141076)
 
-[Outbreak 57](#_Toc169065812)
+[Outbreak 57](#_Toc169141077)
 
-[Pirate attack 57](#_Toc169065813)
+[Pirate attack 57](#_Toc169141078)
 
-[Public holiday 57](#_Toc169065814)
+[Public holiday 57](#_Toc169141079)
 
-[Retreat 57](#_Toc169065815)
+[Retreat 57](#_Toc169141080)
 
-[Terrorist attack 58](#_Toc169065816)
+[Terrorist attack 58](#_Toc169141081)
 
-[War 58](#_Toc169065817)
+[War 58](#_Toc169141082)
 
-[AX States 58](#_Toc169065818)
+[AX States 58](#_Toc169141083)
 
-[Defunct States 59](#_Toc169065819)
+[Defunct States 59](#_Toc169141084)
 
-[Super Powers and Powers Discords 59](#_Toc169065820)
+[Super Powers and Powers Discords 59](#_Toc169141085)
 
-[Bibliography 59](#_Toc169065821)
+[Bibliography 59](#_Toc169141086)
 
-[Older information 59](#_Toc169065822)
+[Older information 59](#_Toc169141087)
 
-[Older BGS guides 60](#_Toc169065823)
+[Older BGS guides 60](#_Toc169141088)
 
 # Copyright
 
@@ -299,6 +299,7 @@ A huge thank you to the following Commanders for reviewing, editing, or commenti
 - Commander Taipandot
 - Commander Cluster Fox
 - Commander Gen. Zoff
+- Commander demon5760
 
 If there are mistakes, they are mine, and mine alone. It is said “write something incorrect if you want the correct answer.” I’m not saying I deliberately added mistakes, but if you spot a mistake or an improvement, please email me ([vanderaj@gmail.com](mailto:vanderaj@gmail.com)) or come to the SINC Discord (<https://discord.gg/XgQNYjUyTN>) and discuss it with us. You can get the latest version of this file from SINC Science - <https://sinc.science/guides/sinc/The%20Complete%20BGS%20Guide%202024.pdf>
 
@@ -740,7 +741,7 @@ Missions, including passenger missions, can provide either economic or security 
 
 Some missions, particularly illegal missions, will hurt a target faction, so choose them carefully – either you wish to hurt that faction, or you don’t mind if you do.
 
-<table><tbody><tr><th><h2><a id="_Toc169065734"></a>In-ship ‘Horizons’</h2></th><th><p>Try to stack high influence (5 influence is the max) missions of a similar type so that you don’t need to change ships.</p></th></tr><tr><td><h2><a id="_Toc169065735"></a>On-foot ‘Odyssey’</h2></td><td><p>Generally, lower influence per mission (max of 4) than Horizons and takes longer to complete (but more fun). Always go to the mission providers first to see if they have a four influence mission available. Three influence missions are available from the terminals.</p></td></tr></tbody></table>
+<table><tbody><tr><th><h2><a id="_Toc169140999"></a>In-ship ‘Horizons’</h2></th><th><p>Try to stack high influence (5 influence is the max) missions of a similar type so that you don’t need to change ships.</p></th></tr><tr><td><h2><a id="_Toc169141000"></a>On-foot ‘Odyssey’</h2></td><td><p>Generally, lower influence per mission (max of 4) than Horizons and takes longer to complete (but more fun). Always go to the mission providers first to see if they have a four influence mission available. Three influence missions are available from the terminals.</p></td></tr></tbody></table>
 
 ## Combat
 
@@ -800,7 +801,7 @@ If in doubt, use a station to fill your trade needs.
 
 ### Profitable Trade Loops
 
-The game now only accepts trade loops from stations for profitable trade and to fix bad states that are resolved with particular goods, so you will need to use Inara > Data > Trade Routes to find a good route involving the system you’re trying to boost. There’s in system trade loops have more effect, especially if you control both stations, than system-to-system trade loops.
+The game now only accepts trade loops from stations for profitable trade and to fix bad states that are resolved with particular goods, so you will need to use Inara > Data > Trade Routes to find a good route involving the system you’re trying to boost. There’s in system trade loops which have more effect, especially if you control both stations, than system-to-system trade loops.
 
 If you don’t want to use an external tool, the game itself indicates high trade routes between systems using color coded lines in the galaxy map to indicate what’s selling well in either direction of nearby systems. If you learn the colors, you can figure out what will trade well between two systems.
 
