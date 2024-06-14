@@ -1,285 +1,284 @@
 # The Complete Elite Dangerous Background Simulation Guide 2024
 
-2024 Edition v1.1.3
+2024 Edition v1.1.4
 
 Andrew van der Stock
 
 Sirius Inc CEO
 
 **NB: This version is an automatically generated markdown copy, please refer to the Word or PDF version if there are errors in this file**
-Andrew van der Stock
 
 ## Table of Contents
 
-[Copyright 6](#_Toc169140954)
+[Copyright 6](#_Toc169251215)
 
-[Thank you! 6](#_Toc169140955)
+[Thank you! 6](#_Toc169251216)
 
-[License 6](#_Toc169140956)
+[License 6](#_Toc169251217)
 
-[INTRODUCTION 7](#_Toc169140957)
+[INTRODUCTION 7](#_Toc169251218)
 
-[Who is this guide for? 7](#_Toc169140958)
+[Who is this guide for? 7](#_Toc169251219)
 
-[BGS is not a second job 7](#_Toc169140959)
+[BGS is not a second job 7](#_Toc169251220)
 
-[Science First - Data and Experiment Driven 7](#_Toc169140960)
+[Science First - Data and Experiment Driven 7](#_Toc169251221)
 
-[Opinionated 8](#_Toc169140961)
+[Opinionated 8](#_Toc169251222)
 
-[The intersection between BGS and PowerPlay 8](#_Toc169140962)
+[The intersection between BGS and PowerPlay 8](#_Toc169251223)
 
-[Essential Internet Resources 8](#_Toc169140963)
+[Essential Internet Resources 8](#_Toc169251224)
 
-[Essential Tools 9](#_Toc169140964)
+[Essential Tools 9](#_Toc169251225)
 
-[Some terms used throughout the document 9](#_Toc169140965)
+[Some terms used throughout the document 9](#_Toc169251226)
 
-[WHAT IS BGS? 10](#_Toc169140966)
+[WHAT IS BGS? 10](#_Toc169251227)
 
-[Systems 11](#_Toc169140967)
+[Systems 11](#_Toc169251228)
 
-[Factions 11](#_Toc169140968)
+[Factions 11](#_Toc169251229)
 
-[Reputation 11](#_Toc169140969)
+[Reputation 11](#_Toc169251230)
 
-[Influence 12](#_Toc169140970)
+[Influence 12](#_Toc169251231)
 
-[Assets – Stations and more 12](#_Toc169140971)
+[Assets – Stations and more 12](#_Toc169251232)
 
-[System states 13](#_Toc169140972)
+[System states 13](#_Toc169251233)
 
-[Sliders 14](#_Toc169140973)
+[Sliders 14](#_Toc169251234)
 
-[Economy 14](#_Toc169140974)
+[Economy 14](#_Toc169251235)
 
-[Security 14](#_Toc169140975)
+[Security 14](#_Toc169251236)
 
-[Daily tick 15](#_Toc169140976)
+[Daily tick 15](#_Toc169251237)
 
-[Weekly server maintenance tick 16](#_Toc169140977)
+[Weekly server maintenance tick 16](#_Toc169251238)
 
-[JOINING A SQUADRON AND GETTING INTO BGS 17](#_Toc169140978)
+[JOINING A SQUADRON AND GETTING INTO BGS 17](#_Toc169251239)
 
-[Step 1 – Join a Squadron 17](#_Toc169140979)
+[Step 1 – Join a Squadron 17](#_Toc169251240)
 
-[Step 2 – Secure Your Inara Profile 17](#_Toc169140980)
+[Step 2 – Secure Your Inara Profile 17](#_Toc169251241)
 
-[Step 3 – Get Tooled Up 18](#_Toc169140981)
+[Step 3 – Get Tooled Up 18](#_Toc169251242)
 
-[Step 4 – Get into BGS 18](#_Toc169140982)
+[Step 4 – Get into BGS 18](#_Toc169251243)
 
-[Open, Private Group, or Solo? 19](#_Toc169140983)
+[Open, Private Group, or Solo? 19](#_Toc169251244)
 
-[Forming a squadron 19](#_Toc169140984)
+[Forming a squadron 19](#_Toc169251245)
 
-[PowerPlay Control 1.0 Table 19](#_Toc169140985)
+[PowerPlay Control 1.0 Table 19](#_Toc169251246)
 
-[Build a BGS ship (or two) 22](#_Toc169140986)
+[Build a BGS ship (or two) 22](#_Toc169251247)
 
-[Mission and Generalist BGS Ship 22](#_Toc169140987)
+[Mission and Generalist BGS Ship 22](#_Toc169251248)
 
-[Trade Ship 22](#_Toc169140988)
+[Trade Ship 22](#_Toc169251249)
 
-[Exploration Ship 22](#_Toc169140989)
+[Exploration Ship 22](#_Toc169251250)
 
-[Combat Ship 23](#_Toc169140990)
+[Combat Ship 23](#_Toc169251251)
 
-[Build your own ship 23](#_Toc169140991)
+[Build your own ship 23](#_Toc169251252)
 
-[MANIPULATING THE BACKGROUND SIMULATION 24](#_Toc169140992)
+[MANIPULATING THE BACKGROUND SIMULATION 24](#_Toc169251253)
 
-[Work smarter, not harder. 24](#_Toc169140993)
+[Work smarter, not harder. 24](#_Toc169251254)
 
-[Maintenance 24](#_Toc169140994)
+[Maintenance 24](#_Toc169251255)
 
-[Daily scan 24](#_Toc169140995)
+[Daily scan 24](#_Toc169251256)
 
-[Maintaining influence 27](#_Toc169140996)
+[Maintaining influence 27](#_Toc169251257)
 
-[Maintaining reputation 27](#_Toc169140997)
+[Maintaining reputation 27](#_Toc169251258)
 
-[Missions 27](#_Toc169140998)
+[Missions 27](#_Toc169251259)
 
-[In-ship ‘Horizons’ 27](#_Toc169140999)
+[In-ship ‘Horizons’ 27](#_Toc169251260)
 
-[On-foot ‘Odyssey’ 27](#_Toc169141000)
+[On-foot ‘Odyssey’ 27](#_Toc169251261)
 
-[Combat 27](#_Toc169141001)
+[Combat 27](#_Toc169251262)
 
-[Trade 28](#_Toc169141002)
+[Trade 28](#_Toc169251263)
 
-[Fleet carriers have no influence effect on BGS 29](#_Toc169141003)
+[Fleet carriers have ~~no~~ some influence effect on BGS trade 29](#_Toc169251264)
 
-[Profitable Trade Loops 30](#_Toc169141004)
+[Profitable Trade Loops 30](#_Toc169251265)
 
-[Unprofitable Trade Loops 30](#_Toc169141005)
+[Unprofitable Trade Loops 31](#_Toc169251266)
 
-[Mining 30](#_Toc169141006)
+[Mining 31](#_Toc169251267)
 
-[Smuggling 31](#_Toc169141007)
+[Smuggling 31](#_Toc169251268)
 
-[Cutter tax 31](#_Toc169141008)
+[Cutter tax 32](#_Toc169251269)
 
-[Exploration 32](#_Toc169141009)
+[Exploration 32](#_Toc169251270)
 
-[Exobiology: Restoring Reputation, or get out of hostile, quick 32](#_Toc169141010)
+[Exobiology: Restoring Reputation, or get out of hostile, quick 32](#_Toc169251271)
 
-[Reducing influence 33](#_Toc169141011)
+[Reducing influence 33](#_Toc169251272)
 
-[Failing missions 33](#_Toc169141012)
+[Failing missions 33](#_Toc169251273)
 
-[Clean Killing 33](#_Toc169141013)
+[Clean Killing 33](#_Toc169251274)
 
-[Negative actions 33](#_Toc169141014)
+[Negative actions 33](#_Toc169251275)
 
-[Inducing negative states 33](#_Toc169141015)
+[Inducing negative states 33](#_Toc169251276)
 
-[CONFLICTS 34](#_Toc169141016)
+[CONFLICTS 35](#_Toc169251277)
 
-[Government Ethos 34](#_Toc169141017)
+[Government Ethos 35](#_Toc169251278)
 
-[Conflict table 34](#_Toc169141018)
+[Conflict table 35](#_Toc169251279)
 
-[Wars 34](#_Toc169141019)
+[Wars 35](#_Toc169251280)
 
-[Coups 36](#_Toc169141020)
+[Coups 37](#_Toc169251281)
 
-[Elections 36](#_Toc169141021)
+[Elections 37](#_Toc169251282)
 
-[EXPANSIONS 36](#_Toc169141022)
+[EXPANSIONS 37](#_Toc169251283)
 
-[Expansion diplomacy 37](#_Toc169141023)
+[Expansion diplomacy 38](#_Toc169251284)
 
-[Detecting inactive PMFs 37](#_Toc169141024)
+[Detecting inactive PMFs 38](#_Toc169251285)
 
-[Where will I expand? The expansion cube 37](#_Toc169141025)
+[Where will I expand? The expansion cube 38](#_Toc169251286)
 
-[Which system will be the expansion system? 38](#_Toc169141026)
+[Which system will be the expansion system? 39](#_Toc169251287)
 
-[Rules of Expansion 38](#_Toc169141027)
+[Rules of Expansion 39](#_Toc169251288)
 
-[Rules of Invasion 39](#_Toc169141028)
+[Rules of Invasion 40](#_Toc169251289)
 
-[Preparing a system for expansion 39](#_Toc169141029)
+[Preparing a system for expansion 40](#_Toc169251290)
 
-[Taking over a system, slowly 39](#_Toc169141030)
+[Taking over a system, slowly 40](#_Toc169251291)
 
-[Taking over a system, quickly 40](#_Toc169141031)
+[Taking over a system, quickly 41](#_Toc169251292)
 
-[Backfilling systems 40](#_Toc169141032)
+[Backfilling systems 41](#_Toc169251293)
 
-[Expansions: Get rich quick 40](#_Toc169141033)
+[Expansions: Get rich quick 41](#_Toc169251294)
 
-[RETREAT 40](#_Toc169141034)
+[RETREAT 41](#_Toc169251295)
 
-[The Important Day 40](#_Toc169141035)
+[The Important Day 41](#_Toc169251296)
 
-[Retreating a faction 40](#_Toc169141036)
+[Retreating a faction 41](#_Toc169251297)
 
-[CRIME AND PUNISHMENT 41](#_Toc169141037)
+[CRIME AND PUNISHMENT 42](#_Toc169251298)
 
-[Fines 41](#_Toc169141038)
+[Fines 42](#_Toc169251299)
 
-[Bounties 41](#_Toc169141039)
+[Bounties 42](#_Toc169251300)
 
-[Local bounties 41](#_Toc169141040)
+[Local bounties 42](#_Toc169251301)
 
-[Global bounties 42](#_Toc169141041)
+[Global bounties 43](#_Toc169251302)
 
-[Notoriety 42](#_Toc169141042)
+[Notoriety 43](#_Toc169251303)
 
-[Naughty list 42](#_Toc169141043)
+[Naughty list 43](#_Toc169251304)
 
-[Interstellar factors 43](#_Toc169141044)
+[Interstellar factors 44](#_Toc169251305)
 
-[Space Jail 43](#_Toc169141045)
+[Space Jail 44](#_Toc169251306)
 
-[REFERENCE 44](#_Toc169141046)
+[REFERENCE 45](#_Toc169251307)
 
-[The Bucket Model 44](#_Toc169141047)
+[The Bucket Model 45](#_Toc169251308)
 
-[Diminishing returns 46](#_Toc169141048)
+[Diminishing returns 47](#_Toc169251309)
 
-[Diplomacy 47](#_Toc169141049)
+[Diplomacy 48](#_Toc169251310)
 
-[Being a good guest 48](#_Toc169141050)
+[Being a good guest 49](#_Toc169251311)
 
-[Maintaining other faction’s system 48](#_Toc169141051)
+[Maintaining other faction’s system 49](#_Toc169251312)
 
-[Influence distribution 48](#_Toc169141052)
+[Influence distribution 49](#_Toc169251313)
 
-[Interpreting station news 49](#_Toc169141053)
+[Interpreting station news 50](#_Toc169251314)
 
-[Maintaining anarchy systems 49](#_Toc169141054)
+[Maintaining anarchy systems 50](#_Toc169251315)
 
-[Actions 50](#_Toc169141055)
+[Actions 51](#_Toc169251316)
 
-[State Duration Table 51](#_Toc169141056)
+[State Duration Table 52](#_Toc169251317)
 
-[Slider 51](#_Toc169141057)
+[Slider 52](#_Toc169251318)
 
-[Conflict 51](#_Toc169141058)
+[Conflict 52](#_Toc169251319)
 
-[Event 51](#_Toc169141059)
+[Event 52](#_Toc169251320)
 
-[Conflict table 52](#_Toc169141060)
+[Conflict table 53](#_Toc169251321)
 
-[Active States 52](#_Toc169141061)
+[Active States 53](#_Toc169251322)
 
-[None 52](#_Toc169141062)
+[None 53](#_Toc169251323)
 
-[Blight 52](#_Toc169141063)
+[Blight 53](#_Toc169251324)
 
-[Boom 53](#_Toc169141064)
+[Boom 54](#_Toc169251325)
 
-[Bust 53](#_Toc169141065)
+[Bust 54](#_Toc169251326)
 
-[Civil liberty 53](#_Toc169141066)
+[Civil liberty 54](#_Toc169251327)
 
-[Civil unrest 54](#_Toc169141067)
+[Civil unrest 55](#_Toc169251328)
 
-[Civil war 54](#_Toc169141068)
+[Civil war 55](#_Toc169251329)
 
-[Drought 54](#_Toc169141069)
+[Drought 55](#_Toc169251330)
 
-[Elections 54](#_Toc169141070)
+[Elections 55](#_Toc169251331)
 
-[Expansion 55](#_Toc169141071)
+[Expansion 56](#_Toc169251332)
 
-[Famine 55](#_Toc169141072)
+[Famine 56](#_Toc169251333)
 
-[Infrastructure failure 55](#_Toc169141073)
+[Infrastructure failure 56](#_Toc169251334)
 
-[Investment 56](#_Toc169141074)
+[Investment 57](#_Toc169251335)
 
-[Lockdown 56](#_Toc169141075)
+[Lockdown 57](#_Toc169251336)
 
-[Natural disaster 56](#_Toc169141076)
+[Natural disaster 57](#_Toc169251337)
 
-[Outbreak 57](#_Toc169141077)
+[Outbreak 58](#_Toc169251338)
 
-[Pirate attack 57](#_Toc169141078)
+[Pirate attack 58](#_Toc169251339)
 
-[Public holiday 57](#_Toc169141079)
+[Public holiday 58](#_Toc169251340)
 
-[Retreat 57](#_Toc169141080)
+[Retreat 58](#_Toc169251341)
 
-[Terrorist attack 58](#_Toc169141081)
+[Terrorist attack 59](#_Toc169251342)
 
-[War 58](#_Toc169141082)
+[War 59](#_Toc169251343)
 
-[AX States 58](#_Toc169141083)
+[AX States 59](#_Toc169251344)
 
-[Defunct States 59](#_Toc169141084)
+[Defunct States 60](#_Toc169251345)
 
-[Super Powers and Powers Discords 59](#_Toc169141085)
+[Super Powers and Powers Discords 60](#_Toc169251346)
 
-[Bibliography 59](#_Toc169141086)
+[Bibliography 60](#_Toc169251347)
 
-[Older information 59](#_Toc169141087)
+[Older information 60](#_Toc169251348)
 
-[Older BGS guides 60](#_Toc169141088)
+[Older BGS guides 61](#_Toc169251349)
 
 # Copyright
 
@@ -542,7 +541,7 @@ Either:
 
 - **For newbies - join the New Pilots Initiative.** The NEWP folks will show you the ropes and have an active BGS. NEWP is a great choice for new Commanders learning the game and BGS. <https://discord.com/invite/newp>
 - **For intermediate Commanders - find a squadron** **at the Squadron Recruitment Center**. So many factions are desperate for BGS operatives – you can rise rapidly in many squadrons. <https://discord.gg/squadronrecruitmentcenter>
-- **For advanced Commanders - join a Power and help them with their BGS efforts**. Powers are the most active BGS player groups, typically with more than 500 systems and heavy diplomacy requirements. Most Powers have a BGS faction of their own or have allies you can join. See the table in the references section on page 59 to find your nearest Power Discord.
+- **For advanced Commanders - join a Power and help them with their BGS efforts**. Powers are the most active BGS player groups, typically with more than 500 systems and heavy diplomacy requirements. Most Powers have a BGS faction of their own or have allies you can join. See the table in the references section on page 60 to find your nearest Power Discord.
 - **Form a new squadron (might not be possible).** See Forming a squadron on page 19 for all the details of how to create your own squadron.
 
 ## Step 2 – Secure Your Inara Profile
@@ -741,7 +740,7 @@ Missions, including passenger missions, can provide either economic or security 
 
 Some missions, particularly illegal missions, will hurt a target faction, so choose them carefully – either you wish to hurt that faction, or you don’t mind if you do.
 
-<table><tbody><tr><th><h2><a id="_Toc169140999"></a>In-ship ‘Horizons’</h2></th><th><p>Try to stack high influence (5 influence is the max) missions of a similar type so that you don’t need to change ships.</p></th></tr><tr><td><h2><a id="_Toc169141000"></a>On-foot ‘Odyssey’</h2></td><td><p>Generally, lower influence per mission (max of 4) than Horizons and takes longer to complete (but more fun). Always go to the mission providers first to see if they have a four influence mission available. Three influence missions are available from the terminals.</p></td></tr></tbody></table>
+<table><tbody><tr><th><h2><a id="_Toc169251260"></a>In-ship ‘Horizons’</h2></th><th><p>Try to stack high influence (5 influence is the max) missions of a similar type so that you don’t need to change ships.</p></th></tr><tr><td><h2><a id="_Toc169251261"></a>On-foot ‘Odyssey’</h2></td><td><p>Generally, lower influence per mission (max of 4) than Horizons and takes longer to complete (but more fun). Always go to the mission providers first to see if they have a four influence mission available. Three influence missions are available from the terminals.</p></td></tr></tbody></table>
 
 ## Combat
 
@@ -791,13 +790,17 @@ For a time, it was possible to adjust pricing on fleet carriers and create a hug
 
 If you need to bring in a class of goods, such as machinery or food during infrastructure failure, you must visit other systems using a good trade ship. Use Inara’s Data > Commodities search function to find the closest system to find what you need. Fit a fuel scoop or have the Fuel Rats (<https://fuelrats.com/>) on speed dial.
 
-### Fleet carriers have no influence effect on BGS
+### Fleet carriers have ~~no~~ some influence effect on BGS trade
 
-Trade to or from a carrier has zero influence effect on BGS but can be very good at helping with reputation and economy sliders. Since the trade update, using your fleet carrier to re-price goods, such as selling gold or silver at 5% of galactic average, to sell at a nearby station for incredible on paper profits, no longer works. This was done to avoid people getting Elite V in trade as well as boosting influence via fake trade trivially easy.
+Trade to or from a carrier **through the carrier market** has zero influence effect on BGS but can be very good at helping with reputation and economy sliders. Since the trade update, using your fleet carrier to re-price goods, such as selling gold or silver at 5% of galactic average, to sell at a nearby station for incredible on paper profits, no longer works. This was done to avoid people getting Elite V in trade as well as boosting influence via fake trade trivially easy.
 
-The best use for fleet carriers for BGS is when you are doing missions, such as the 50 mCr source and return { gallite, indite, rutile, coltan, gold, silver } missions. Using your carrier to supply most missions is perfectly acceptable, because the influence comes from the completion of the mission, and not from the trade itself. You can also store unbuyable mined commodities, such as osmium, bromellite, and samarium, on your carrier for later mission use.
+Profitable, high demand trade through **transfers to and from your carrier hold works** just fine. For example, if a Commander finds a low buy price for metals from a system in an infrastructure failure state, say coltan for 480 credits per unit, and then transfers several loads to the carrier’s hold, moves the carrier to the destination system, transfers the coltan back to the ship, and then sells the goods to a station, it will retain its original buy price of 480 cr/unit, and boost the influence of the destination station’s owner and economy sliders. If the goods are sold to the market or bought from the market, this doesn’t work.
 
-If in doubt, use a station to fill your trade needs.
+Smuggling through transfers also works in the same way – steal or buy illegal goods, transfer the stolen or prohibited goods into the carrier’s hold, move the carrier to the destination system, transfer the goods back out to the ship, and sell them to a black market. The station owner’s influence will decrease. Depending on the goods, security will decrease, such as with battle weapons, and potentially if trading at a loss, the economic slider will also decrease. Black markets are beneficial for anarchies, so anarchies can use fleet carriers to boost their faction’s economy slider if they find a large quantity of stolen goods.
+
+Another use for fleet carriers for BGS is when you are doing missions, such as the 50 mCr source and return { gallite, indite, rutile, coltan, gold, silver } missions. Using your carrier to supply these source and return or mining missions is perfectly acceptable, because the influence comes from the completion of the mission, and not from the trade itself. You can also store unbuyable mined commodities, such as osmium, bromellite, and samarium, on your carrier for later mission use.
+
+However, if in doubt, use a station to fill your trade needs.
 
 ### Profitable Trade Loops
 
@@ -1188,7 +1191,7 @@ Description automatically generated](data:image/png;base64,iVBORw0KGgoAAAANSUhEU
 
 Figure 2: FDev documenting some of the internal buckets
 
-Different types of actions fill or empty these internal buckets. Some of this can be surfaced using the table as seen on page 44. For example, bringing medicines empties the outbreak bucket, eventually clearing that state.
+Different types of actions fill or empty these internal buckets. Some of this can be surfaced using the table as seen on page 45. For example, bringing medicines empties the outbreak bucket, eventually clearing that state.
 
 Various factions have tested a four bucket model, consisting of trade, exploration, combat, and missions, which simplifies but reasonably and successfully represents the game’s behavior as how these levers, triggers, and so on are applied to each tick.
 
