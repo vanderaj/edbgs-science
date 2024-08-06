@@ -44,6 +44,9 @@ Get your copy here:
 - [SINC The Complete BGS Guide 2024 Word](guides/sinc/The%20Complete%20BGS%20Guide%202024.docx)
 - [SINC The Complete BGS Guide 2024 PDF](guides/sinc/The%20Complete%20BGS%20Guide%202024.pdf)
 
+- [SINC The Complete BGS Guide 2024 Deutsche Word](guides/sinc/The%20Complete%20BGS%20Guide%202024%20Deutsche%20Version.docx)
+- [SINC The Complete BGS Guide 2024 Deutsche PDF](guides/sinc/The%20Complete%20BGS%20Guide%202024%20Deutsche%20Version.pdf)
+
 The following guides are annotated, but otherwise have the original text as found on the Internet:
 
 - [New Pilots](guides/newp/)
