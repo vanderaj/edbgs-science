@@ -1,11 +1,11 @@
-# BREAKING NEWS! SINC BGS GUIDE IS RELEASED!
+# BGS Guide 3.0 - 2025 is in draft
 
 Get your copy here:
 
-- [SINC The Complete BGS Guide 2024 Word](guides/sinc/The%20Complete%20BGS%20Guide%202024.docx)
-- [SINC The Complete BGS Guide 2024 PDF](guides/sinc/The%20Complete%20BGS%20Guide%202024.pdf)
+- [SINC The Complete BGS Guide 2025 Word](guides/sinc/The%20Complete%20BGS%20Guide%202025.docx)
+- [SINC The Complete BGS Guide 2025 PDF - note new URL!](/bgsguide.pdf)
 
-Please send any errors or corrections to the SINC team at [SINC Discord](https://discord.gg/RBuzEUPggC)
+Please send any errors or corrections at the [ED BGS Discord](https://discord.gg/PZwERyb) in the #bgs-feedback channel.
 
 # Elite BGS Science Repo
 
